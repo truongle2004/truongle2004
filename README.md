@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sy Truong</h1>
+<h1 align="center">Hi 👋, I'm Le Sy Truong</h1>
 <h3 align="center">A passionate fullstack from VIETNAM</h3>
 
 - 📫 How to reach me **lesytruong247@gmail.com**
